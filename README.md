@@ -5,10 +5,10 @@ I dagens uppgift ska vi öva på global state med Redux och hooks-for-redux.
 ### Sätt upp projektet
 
 1. Öppna en terminal och gå med `cd` där du vill skapa projektet.
-2. Skriv `npm create vite@latest todolist-redux -- --template react`.
+2. Skriv `npm create vite@latest quizz-redux -- --template react`.
 3. Gå in i projektet: `cd todolist-redux`.
 4. Installera dependencies: `npm install`.
-5. Installera hooks-for-redux (H4R) `npm install hooks-for-redux`
+5. Installera hooks-for-redux (H4R) `npm install hooks-for-redux`.
 
 ## Hur du klarar uppgiften
 
