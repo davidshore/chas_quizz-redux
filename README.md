@@ -8,7 +8,7 @@ I dagens uppgift ska vi öva på global state med Redux och hooks-for-redux.
 2. Skriv `npm create vite@latest quizz-redux -- --template react`.
 3. Gå in i projektet: `cd quizz-redux`.
 4. Installera dependencies: `npm install`.
-5. Installera hooks-for-redux (H4R) `npm install hooks-for-redux`.
+5. Installera hooks-for-redux (H4R): `npm install hooks-for-redux`.
 6. Installera react-router-dom: `npm install react-router-dom`
 
 ## Hur du klarar uppgiften
